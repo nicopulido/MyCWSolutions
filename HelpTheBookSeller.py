@@ -1,3 +1,5 @@
+# Link to kata: https://www.codewars.com/kata/54dc6f5a224c26032800005c
+
 """example from description
         b = ["ABART 20", "CDXEF 50", "BKWRK 25", "BTSQZ 89", "DRTYM 60"]
         c = ["A", "B", "C", "W"]
